@@ -40,7 +40,7 @@ def student_registration():
     return student_name, score, grade, remark
 
 
-# -------------------- LAB 2 ---------------------
+# -------------------- LAB 2 -------------------
 #          Course Enrollment Management System
 
 def course_enrollment():
